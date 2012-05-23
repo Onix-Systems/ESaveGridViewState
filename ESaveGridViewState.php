@@ -1,6 +1,6 @@
 <?php
 
-class ESaveGreedViewState extends CActiveRecordBehavior {
+class ESaveGridViewState extends CActiveRecordBehavior {
 
     public $defaults=array();
 
