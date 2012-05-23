@@ -1,4 +1,4 @@
-ESaveGreedViewState
+ESaveGridViewState
 ===================
 
 Extensions to store filters, sorting and pages
